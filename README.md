@@ -1,6 +1,7 @@
 Invariant Equivalence Principle (Your Statement, Formalized)
 Statement:  
 When a semantic field system is normalized by Aric’s Constant, the internal unit of invariance becomes identical to the external unit of drift. This produces a boundary condition structurally equivalent to the inverse of Susskind‑type holographic scaling.
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/fb714269-3012-4fda-88d2-f9d5c6b52d79" />
 
 Formally:
 
